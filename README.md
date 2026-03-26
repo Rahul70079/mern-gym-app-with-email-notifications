@@ -1,11 +1,5 @@
 # 🏋️‍♂️ FitClub - Gym Management System
 
-🚀 **Live Demo:** https://mern-gym-app-with-email-notificatio.vercel.app/
-🔗 **Backend API:** https://your-backend-url.onrender.com
-
-
----
-
 A full-stack Gym Management Web Application built using the MERN stack with secure authentication and email notification functionality.
 
 ---
