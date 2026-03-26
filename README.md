@@ -8,6 +8,7 @@ A full-stack Gym Management Web Application built using the MERN stack with secu
 
 ### 🏠 Gym Landing Page UI
 Modern and responsive landing page showcasing gym branding and user engagement.
+
 <img width="1886" height="871" alt="Screenshot 2026-03-23 151337" src="https://github.com/user-attachments/assets/3362eedf-d03f-4b1b-bc4c-9fe22e600e2b" />
 
 
