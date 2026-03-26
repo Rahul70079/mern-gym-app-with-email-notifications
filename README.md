@@ -83,31 +83,31 @@ Shows real-time email received after form submission.
 ---
 
 ## 📂 Project Structure
-
+```bash
+fitclub-gym-management-system/
 │
 ├── backend/
-│   ├── config/          # DB config, env setup
-│   ├── controllers/     # Business logic
-│   ├── models/          # MongoDB schemas
-│   ├── routes/          # API routes
-│   ├── middleware/      # Auth middleware (JWT)
-│   ├── utils/           # Email, helpers
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── utils/
 │   ├── app.js
 │   ├── .env
-│   ├── package.json
+│   └── package.json
 │
 ├── frontend/
 │   ├── public/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
-│   │   ├── services/    # API calls
-│   │   ├── context/     # Auth/global state
+│   │   ├── services/
+│   │   ├── context/
 │   │   ├── App.jsx
-│   │   ├── main.jsx
+│   │   └── main.jsx
 │   ├── index.html
-│   ├── package.json
-│
+│   └── package.json
 
 ---
 
