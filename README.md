@@ -16,14 +16,6 @@ A full-stack Gym Management Web Application built using the MERN stack with secu
 <img width="1501" height="590" alt="Screenshot 2026-03-23 175618" src="https://github.com/user-attachments/assets/86ff96cd-a19b-4cc8-80d1-1042d9d58aa6" />
 
 
-
-
-
-
-
-
-
-
 ## 🚀 Features
 
 * 🔐 User Authentication (JWT secure login/signup)
