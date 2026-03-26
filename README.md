@@ -121,7 +121,6 @@ fitclub-gym-management-system/
 
 ### 1️⃣ Clone the repository
 
-```bash
 git clone https://github.com/Rahul70079/fitclub-gym-management-system.git
 ```
 
