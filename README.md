@@ -1,5 +1,4 @@
-# 🏋️‍♂️ FitClub - Gym Management System
-
+# 🏋️‍♂️ mern-gym-app-with-email-notifications
 A full-stack Gym Management Web Application built using the MERN stack with secure authentication and email notification functionality.
 
 ---
@@ -85,7 +84,7 @@ Shows real-time email received after form submission.
 ## 📂 Project Structure
 
 ```plaintext
-fitclub-gym-management-system/
+mern-gym-app-with-email-notifications
 │
 ├── backend/
 │   ├── node_modules/
