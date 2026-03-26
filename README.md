@@ -83,32 +83,40 @@ Shows real-time email received after form submission.
 ---
 
 ## 📂 Project Structure
-```bash
+
+```plaintext
 fitclub-gym-management-system/
 │
 ├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
+│   ├── node_modules/
 │   ├── utils/
+│   │   └── sendEmail.js
 │   ├── app.js
-│   ├── .env
-│   └── package.json
+│   ├── config.env
+│   ├── package.json
+│   └── package-lock.json
 │
 ├── frontend/
+│   ├── node_modules/
 │   ├── public/
 │   ├── src/
+│   │   ├── assets/
 │   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── context/
+│   │   │   ├── BMICalculator.jsx
+│   │   │   ├── Contact.jsx
+│   │   │   ├── Footer.jsx
+│   │   │   ├── Gallery.jsx
+│   │   │   ├── Hero.jsx
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── Pricing.jsx
+│   │   │   └── WorkoutSession.jsx
+│   │   ├── App.css
 │   │   ├── App.jsx
 │   │   └── main.jsx
+│   ├── .gitignore
 │   ├── index.html
-│   └── package.json
-
+│   ├── package.json
+│   └── package-lock.json
 ---
 
 ### 1️⃣ Clone the repository
