@@ -5,6 +5,7 @@ A full-stack Gym Management Web Application built using the MERN stack with secu
 ---
 
 ## 📸 Screenshots
+Gym Landing Page UI
 <img width="1886" height="871" alt="Screenshot 2026-03-23 151337" src="https://github.com/user-attachments/assets/3362eedf-d03f-4b1b-bc4c-9fe22e600e2b" />
 <img width="1182" height="855" alt="Screenshot 2026-03-23 151644" src="https://github.com/user-attachments/assets/c5bed014-13e8-47b6-bf45-c9201d5392ed" />
 <img width="961" height="782" alt="Screenshot 2026-03-23 151745" src="https://github.com/user-attachments/assets/8e85e94f-b70d-4053-8ddc-7e999f2c231b" />
