@@ -14,41 +14,49 @@ Modern and responsive landing page showcasing gym branding and user engagement.
 
 ### 💪 Workout Sessions Section
 Displays various workout programs designed for users based on fitness goals.
+
 <img width="1182" height="855" alt="Screenshot 2026-03-23 151644" src="https://github.com/user-attachments/assets/c5bed014-13e8-47b6-bf45-c9201d5392ed" />
 
 
 ### 🔥 Featured Bootcamps Section
 Highlights premium bootcamp programs for advanced training.
+
 <img width="961" height="782" alt="Screenshot 2026-03-23 151745" src="https://github.com/user-attachments/assets/8e85e94f-b70d-4053-8ddc-7e999f2c231b" />
 
 
 ### 💳 Membership Plans Section
 Shows different subscription plans with pricing and features.
+
 <img width="1888" height="861" alt="Screenshot 2026-03-23 151836" src="https://github.com/user-attachments/assets/a528a333-5f94-4f0b-b56e-2e44de3144e6" />
 
 
 ### 📩 Contact Form Section
 Allows users to send inquiries or join requests.
+
 <img width="1876" height="867" alt="Screenshot 2026-03-23 151927" src="https://github.com/user-attachments/assets/046e60a8-7379-45b3-8edb-928fbf87d525" />
 
 
 ### ✅ Contact Form Submission with Email Notification
-Demonstrates successful message submission with backend email integration.
+Demonstrates successful message submission with backend email integration
+
 <img width="1861" height="864" alt="Screenshot 2026-03-23 174945" src="https://github.com/user-attachments/assets/ed7089c3-54aa-406e-852a-0b2526c347f7" />
 
 
 ### 🧮 BMI Calculator – Overweight Result
 Displays BMI calculation result when user is overweight.
+
 <img width="1872" height="863" alt="Screenshot 2026-03-23 175154" src="https://github.com/user-attachments/assets/0a3f887f-66e6-4e8e-bd14-02b82dba761b" />
 
 
 ### ✅ BMI Calculator – Normal Result
 Shows BMI result for users in the healthy range.
+
 <img width="1877" height="866" alt="Screenshot 2026-03-23 175231" src="https://github.com/user-attachments/assets/bea46136-ca41-4fe6-86f6-cfb45ff4e7ea" />
 
 
 ### 📧 Email Notification Received (Nodemailer Integration)
 Shows real-time email received after form submission.
+
 <img width="1501" height="590" alt="Screenshot 2026-03-23 175618" src="https://github.com/user-attachments/assets/86ff96cd-a19b-4cc8-80d1-1042d9d58aa6" />
 
 
