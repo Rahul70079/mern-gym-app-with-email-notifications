@@ -33,8 +33,32 @@ A full-stack Gym Management Web Application built using the MERN stack with secu
 
 ## 📂 Project Structure
 
-/client → React Frontend
-/server → Node.js Backend
+│
+├── backend/
+│   ├── config/          # DB config, env setup
+│   ├── controllers/     # Business logic
+│   ├── models/          # MongoDB schemas
+│   ├── routes/          # API routes
+│   ├── middleware/      # Auth middleware (JWT)
+│   ├── utils/           # Email, helpers
+│   ├── app.js
+│   ├── .env
+│   ├── package.json
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/    # API calls
+│   │   ├── context/     # Auth/global state
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   ├── index.html
+│   ├── package.json
+│
+├── README.md
+├── .gitignore
 
 ---
 
