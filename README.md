@@ -32,13 +32,12 @@ Shows different subscription plans with pricing and features.
 ### 📩 Contact Form Section
 Allows users to send inquiries or join requests.
 
-<img width="1876" height="867" alt="Screenshot 2026-03-23 151927" src="https://github.com/user-attachments/assets/046e60a8-7379-45b3-8edb-928fbf87d525" />
-
+<img width="1861" height="864" alt="Screenshot 2026-03-23 174945" src="https://github.com/user-attachments/assets/ed7089c3-54aa-406e-852a-0b2526c347f7" />
 
 ### ✅ Contact Form Submission with Email Notification
 Demonstrates successful message submission with backend email integration
 
-<img width="1861" height="864" alt="Screenshot 2026-03-23 174945" src="https://github.com/user-attachments/assets/ed7089c3-54aa-406e-852a-0b2526c347f7" />
+<img width="1876" height="867" alt="Screenshot 2026-03-23 151927" src="https://github.com/user-attachments/assets/046e60a8-7379-45b3-8edb-928fbf87d525" />
 
 
 ### 🧮 BMI Calculator – Overweight Result
